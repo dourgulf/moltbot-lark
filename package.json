@@ -46,7 +46,7 @@
     }
   },
   "dependencies": {
-    "@larksuiteoapi/node-sdk": "^1.30.0",
+    "@larksuiteoapi/node-sdk": "^1.56.1",
     "@sinclair/typebox": "^0.34.48",
     "zod": "^4.3.6"
   },
